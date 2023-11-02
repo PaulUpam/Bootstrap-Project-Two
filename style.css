@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+#herocontent {
+ 
+    width: 100%;
+    background-color:#F6F5F4 !important ;
+}
+.fontColor{
+    background-color: #C3DCE3 !important; 
+    color: #4C8D9E  !important;
+}
+.webFontColor{
+    color:#757575 ;
+}
+.webColor{
+    color: #4C8D9E  !important;
+    font-weight: 800;
+}
+.titleColor{
+    color: #4C8D9E  !important;
+    font-weight: 700;
+    font-size: 13px;
+}
+.mybtncolor{
+    background-color: #C3DCE3 !important; 
+    color: #4C8D9E  !important;
+    border-radius: 20px;
+    font-weight: 600;
+
+}
+
+.mybtncolor:hover {
+background-color: cadetblue !important;
+color: rgb(255, 255, 255) !important;
+}
+
+#sectionTwo{
+width: 100%;
+}
+#sectionThree{
+    width: 100%;
+    background-color:#F6F5F4 !important  ;
+   
+}
